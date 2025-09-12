@@ -17,7 +17,7 @@ Bu depo, `pkg/` klasöründe derlenmiş dosyalarla gelir. Yalnızca statik bir d
 
 1) Depoyu indirin/klonlayın
 ```bash
-git clone https://github.com/<kullanici>/2048.git
+git clone https://github.com/0bera1/2048-Game-With-Rust/
 cd 2048
 ```
 
