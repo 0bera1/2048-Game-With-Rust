@@ -1,0 +1,11 @@
+/Users/bera/Desktop/bera/2048/target/wasm32-unknown-unknown/release/deps/getrandom-0f9a818577620aa4.d: /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/lib.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/util.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error_impls.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/js.rs
+
+/Users/bera/Desktop/bera/2048/target/wasm32-unknown-unknown/release/deps/libgetrandom-0f9a818577620aa4.rlib: /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/lib.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/util.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error_impls.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/js.rs
+
+/Users/bera/Desktop/bera/2048/target/wasm32-unknown-unknown/release/deps/libgetrandom-0f9a818577620aa4.rmeta: /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/lib.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/util.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error_impls.rs /Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/js.rs
+
+/Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/lib.rs:
+/Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error.rs:
+/Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/util.rs:
+/Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/error_impls.rs:
+/Users/bera/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.16/src/js.rs:

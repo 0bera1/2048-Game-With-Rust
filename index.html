@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>2048 - Rust + WASM</title>
+    <style>
+      html, body { height:100%; margin:0; background:#faf8ef; font-family:Arial, sans-serif; }
+      .wrap { display:flex; align-items:center; justify-content:center; height:100%; flex-direction:column; gap:16px; }
+      canvas { background:#bbada0; border-radius:8px; }
+      .hint { color:#776e65; }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <canvas id="game" width="420" height="520"></canvas>
+      <div class="hint">Ok tuşları veya WASD ile oynayın. Yenilemek için R.</div>
+    </div>
+    <script type="module">
+      import init, { start } from "./pkg/game_2048.js";
+      async function boot() {
+        await init();
+        start("game");
+        window.addEventListener('keydown', (e) => {
+          if (e.key === 'r' || e.key === 'R') {
+            location.reload();
+          }
+        })
+      }
+      boot();
+    </script>
+  </body>
+  </html>
+
