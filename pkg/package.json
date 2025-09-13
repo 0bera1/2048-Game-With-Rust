@@ -1,0 +1,15 @@
+{
+  "name": "game_2048",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "game_2048_bg.wasm",
+    "game_2048.js",
+    "game_2048.d.ts"
+  ],
+  "main": "game_2048.js",
+  "types": "game_2048.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
